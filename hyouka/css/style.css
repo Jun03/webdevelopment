@@ -1,0 +1,27 @@
+
+#container {
+  color: red;
+  width :"250 px";
+  height : "250 px";
+}
+.large-img{
+max-height: 100%;
+  max-width: 100%;
+}
+.l-div{
+  margin: 10px;
+  width: 100%;
+}
+
+.para{
+  color: cyan;
+  font-size: 28px;
+}
+.s-div{
+  margin-left:5px;
+  margin-right: 5px;
+}
+#cen{
+  margin-left : 10px;
+  margin-right :10px;
+}

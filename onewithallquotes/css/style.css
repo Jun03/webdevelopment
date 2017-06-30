@@ -1,0 +1,47 @@
+body{
+  background-image: url(http://res.cloudinary.com/jun03/image/upload/v1495463002/Jesse-Eisenberg-012_uxl9fu.jpg);
+  background-repeat: no-repeat;
+ background-size: 100%;
+  overflow-x:"hidden";
+}
+html{
+  overflow:"hidden";
+  overflow-x:"hidden";
+}
+
+
+#box{
+  background-color: lightgrey;
+  border: 30px solid grey;
+  padding: 30px;
+  margin: 100px 650px 100px  
+    50px;
+  
+}
+#btn1{
+    border: 1px black;
+   margin-left:50px  
+}
+
+#btn2{
+    border: 1px black;
+  
+}
+
+#quote {
+  margin:auto;
+  display: flex;
+  justify-content: center;
+  
+  
+}
+
+#author {
+ margin : auto;
+  text-align:right;
+}
+h1{
+  margin-left :150px;
+  margin-top: 10px;color:lightgrey;
+  
+}
